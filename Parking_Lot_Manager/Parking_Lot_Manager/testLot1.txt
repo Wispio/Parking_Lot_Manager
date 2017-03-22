@@ -1,0 +1,4 @@
+*ParkingLotFormat*{
+mmm/mmm/mmm/
+mmm/mmm/mmm/
+mmm/mmm/mmm/}

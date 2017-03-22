@@ -1,0 +1,36 @@
+﻿  UI_FUNCTIONDEF.cpp
+e:\codeprojects\parking_lot_manager\parking_lot_manager\ui_functiondef.cpp(171): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\ui_functiondef.cpp(345): warning C4101: 'whereTo': unreferenced local variable
+e:\codeprojects\parking_lot_manager\parking_lot_manager\ui_functiondef.cpp(370): warning C4101: 'whereTo': unreferenced local variable
+  ProgramDriver(main).cpp
+  parkingSpace_FUNCTIONDEF.cpp
+  parkingLot_FUNCTIONDEF.cpp
+e:\codeprojects\parking_lot_manager\parking_lot_manager\parkinglot_functiondef.cpp(26): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\parkinglot_functiondef.cpp(44): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\parkinglot_functiondef.cpp(87): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\parkinglot_functiondef.cpp(100): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\parkinglot_functiondef.cpp(121): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\parkinglot_functiondef.cpp(163): warning C4101: 'testChar': unreferenced local variable
+e:\codeprojects\parking_lot_manager\parking_lot_manager\parkinglot_functiondef.cpp(221): warning C4018: '<': signed/unsigned mismatch
+  lotLevel_FUNCTIONDEF.cpp
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(15): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(16): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(25): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(31): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(52): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(59): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(91): warning C4018: '>': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(117): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(118): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(134): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(135): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(157): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(159): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(212): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(240): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(345): warning C4018: '<': signed/unsigned mismatch
+e:\codeprojects\parking_lot_manager\parking_lot_manager\lotlevel_functiondef.cpp(346): warning C4018: '<': signed/unsigned mismatch
+  exceptions_FUNCTIONDEF.cpp
+  Generating Code...
+e:\codeprojects\parking_lot_manager\parking_lot_manager\parkingspace_functiondef.cpp(50): warning C4715: 'parkingSpace::view': not all control paths return a value
+  Parking_Lot_Manager.vcxproj -> E:\CodeProjects\Parking_Lot_Manager\Debug\Parking_Lot_Manager.exe
